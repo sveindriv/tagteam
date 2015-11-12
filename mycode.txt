@@ -1,0 +1,1 @@
+I can write some text inside this file called mycode.txt
